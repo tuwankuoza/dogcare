@@ -1,0 +1,5 @@
+export const SET_LOADING = 'data/loading'
+export const SET_ERROR = 'data/error'
+export const SET_DATA = 'data/dog'
+export const SET_SUBDATA = 'data/detail'
+export const SET_IMAGE_DATA = 'data/image'
